@@ -7,8 +7,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Freemcs1.aternos.me",
-    "port": 23172,
+    "ip": "freemcc.mcsh.io",
+    "port": 19132,
     "version": "1.21.1"
   },
   "position": {

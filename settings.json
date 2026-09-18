@@ -1,8 +1,8 @@
 
 {
-  "name": "Senku_Afkbot",
+  "name": "Senku_Afk",
   "bot-account": {
-    "username": "Senku_op",
+    "username": "Senku_afk",
     "password": "",
     "type": "offline"
   },

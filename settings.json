@@ -7,7 +7,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Freemcs1.aternos.me",
+    "ip": "Freemcs1.aternos.me:23172",
     "port": 23172,
     "version": "1.21.1"
   },
